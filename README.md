@@ -37,3 +37,6 @@ Você informa:
 O intervalo de células onde quer contar
 
 O critério (valor) que deseja contar dentro desse intervalo
+
+
+<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/6acbd2d5-376a-499d-9e03-402d59146738" />
