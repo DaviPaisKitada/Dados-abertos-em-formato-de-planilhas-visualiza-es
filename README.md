@@ -57,22 +57,3 @@ Posteriormente, a análise foi reproduzida no Google Colab, utilizando Inteligê
 
 * Em seguida, o processo foi reproduzido no Google Colab, com o apoio de Inteligência Artificial para gerar o código em Python. O arquivo IceCream.csv foi lido em um DataFrame do Pandas, e a partir dele foi criado um gráfico de dispersão da temperatura pela receita (revenue), além da construção de um modelo de regressão linear que relaciona a revenue em função da temperature.
 
-CONT.SE
-➤ O que é:
-
-Uma função que conta quantas vezes um valor específico aparece em um intervalo de células.
-
-➤ Para que serve:
-
-Usada para contar ocorrências com base em um critério (ex: quantas vezes um nome, número ou palavra aparece).
-
-➤ Como funciona:
-
-Você informa:
-
-O intervalo de células onde quer contar
-
-O critério (valor) que deseja contar dentro desse intervalo
-
-
-
