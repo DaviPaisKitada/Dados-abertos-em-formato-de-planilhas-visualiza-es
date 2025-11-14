@@ -4,7 +4,7 @@
 ---
 
 ## Atividade 1: Apresentação em equipes no Canva
-![WhatsApp Image 2025-09-25 at 22 07 06](https://github.com/user-attachments/assets/84a928f5-4b5c-4017-8552-25ed1e5d6f7e)
+
 
 * A atividade teve como objetivo promover a integração da turma por meio de uma apresentação interativa no Kahoot. Cada participante elaborou perguntas com curiosidades pessoais, e os colegas tentaram adivinhar as respostas, tornando o momento descontraído e dinâmico.
 
